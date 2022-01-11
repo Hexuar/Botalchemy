@@ -1,2 +1,2 @@
 # Botalchemy
-The Botalchemy magic datapack
+The Botalchemy magic datapack - by Hexuar
